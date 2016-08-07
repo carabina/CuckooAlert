@@ -120,8 +120,11 @@ in ViewController
 seeing *Example*, *ExampleObjc* targets on CuckooAlert projects
 
 ## Release History
-* 0.0.1
-    * Work in progress
+* 1.0.0
+    * add CuckooAlert.swift
+    * add CuckooAlert class for enabling swizzles
+    * swizzling function of viewDidLoad, viewDidDisappear, presentViewController on UIViewController for management of UIAlertController present queue
+    * add some handy function to UIAlertController
 
 ## Contribute
 
